@@ -1,0 +1,126 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "contact": "+1 (123) 456-7890",
+      "total_marks": 95,
+      "image": "https://example.com/john_doe.jpg",
+      "class": "10",
+      "section": "A",
+      "achievements": ["Science Fair Winner", "Mathematics Olympiad Finalist"]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "contact": "+1 (987) 654-3210",
+      "total_marks": 92,
+      "image": "https://example.com/jane_smith.jpg",
+      "class": "10",
+      "section": "A",
+      "achievements": ["Debate Champion", "Best Student of the Year"]
+    },
+    {
+      "id": 3,
+      "name": "David Johnson",
+      "email": "david.johnson@example.com",
+      "contact": "+1 (555) 123-4567",
+      "total_marks": 89,
+      "image": "https://example.com/david_johnson.jpg",
+      "class": "10",
+      "section": "B",
+      "achievements": [
+        "National Science Quiz Runner-up",
+        "Chess Club President"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "email": "emily.davis@example.com",
+      "contact": "+1 (777) 456-1230",
+      "total_marks": 85,
+      "image": "https://example.com/emily_davis.jpg",
+      "class": "10",
+      "section": "B",
+      "achievements": [
+        "Creative Writing Contest Winner",
+        "Community Service Award"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Michael Brown",
+      "email": "michael.brown@example.com",
+      "contact": "+1 (222) 789-4560",
+      "total_marks": 88,
+      "image": "https://example.com/michael_brown.jpg",
+      "class": "10",
+      "section": "C",
+      "achievements": [
+        "Sports Person of the Year",
+        "Model United Nations Delegate"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Sarah Wilson",
+      "email": "sarah.wilson@example.com",
+      "contact": "+1 (333) 654-9870",
+      "total_marks": 94,
+      "image": "https://example.com/sarah_wilson.jpg",
+      "class": "10",
+      "section": "C",
+      "achievements": [
+        "School Magazine Editor",
+        "Top Performer in English Literature"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Daniel Lee",
+      "email": "daniel.lee@example.com",
+      "contact": "+1 (444) 987-6543",
+      "total_marks": 90,
+      "image": "https://example.com/daniel_lee.jpg",
+      "class": "10",
+      "section": "D",
+      "achievements": ["Music Band Lead Guitarist", "Drama Club President"]
+    },
+    {
+      "id": 8,
+      "name": "Olivia Martinez",
+      "email": "olivia.martinez@example.com",
+      "contact": "+1 (666) 234-5678",
+      "total_marks": 91,
+      "image": "https://example.com/olivia_martinez.jpg",
+      "class": "10",
+      "section": "D",
+      "achievements": ["Junior Scientist Award", "Math Club Treasurer"]
+    },
+    {
+      "id": 9,
+      "name": "Matthew Taylor",
+      "email": "matthew.taylor@example.com",
+      "contact": "+1 (777) 876-5432",
+      "total_marks": 87,
+      "image": "https://example.com/matthew_taylor.jpg",
+      "class": "10",
+      "section": "E",
+      "achievements": ["Spelling Bee Champion", "Junior Athlete of the Year"]
+    },
+    {
+      "id": 10,
+      "name": "Sophia Anderson",
+      "email": "sophia.anderson@example.com",
+      "contact": "+1 (888) 345-6789",
+      "total_marks": 93,
+      "image": "https://example.com/sophia_anderson.jpg",
+      "class": "10",
+      "section": "E",
+      "achievements": ["Student Council President", "Public Speaking Champion"]
+    }
+  ]
+}
